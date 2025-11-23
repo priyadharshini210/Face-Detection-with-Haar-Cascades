@@ -130,11 +130,16 @@ plt.show()
 
 ```
 ### OUTPUT :
-<img width="311" height="545" alt="image" src="https://github.com/user-attachments/assets/55a9f724-4bb2-482e-a485-e0e103658c17" />
+<img width="213" height="278" alt="image" src="https://github.com/user-attachments/assets/19772577-49a9-45c3-b594-d4c60481fc51" />
+<img width="276" height="270" alt="image" src="https://github.com/user-attachments/assets/c90351b3-ef8d-4d20-87c8-57cf407decdd" />
 <img width="343" height="249" alt="image" src="https://github.com/user-attachments/assets/50281c3e-8e6c-45ca-a6f1-a199528acff5" />
-<img width="288" height="549" alt="image" src="https://github.com/user-attachments/assets/7c91ef48-c07a-45aa-b105-2aa739c41e80" />
+<img width="211" height="268" alt="image" src="https://github.com/user-attachments/assets/14b42ee1-54d3-412a-973d-177df859c678" />
+<img width="273" height="272" alt="image" src="https://github.com/user-attachments/assets/66a3b1d4-6c25-4643-af54-be2a9ab0d734" />
 <img width="366" height="242" alt="image" src="https://github.com/user-attachments/assets/0690d0ee-5c5e-4367-945a-18a60a4b3c2b" />
-<img width="279" height="536" alt="image" src="https://github.com/user-attachments/assets/11bd2e42-4d61-45bc-9eec-7dafcb8d2a9a" />
+
+<img width="227" height="277" alt="image" src="https://github.com/user-attachments/assets/cc8fdae0-8d4e-4db4-bb14-4bb9cf925b3e" />
+<img width="284" height="275" alt="image" src="https://github.com/user-attachments/assets/db0c83c5-db69-4874-9014-f8d4fd7696f6" />
+
 <img width="330" height="250" alt="image" src="https://github.com/user-attachments/assets/eddad342-a00f-40f7-8a34-dfef7ea78445" />
 
 ### RESULT:
